@@ -7,7 +7,7 @@
 
 const nums = [-1, 0, 3, 5, 9, 12];
 
-const target = 4;
+const target = 9;
 
 function Search(nums, target) {
   let start = 0;
