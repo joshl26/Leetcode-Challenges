@@ -8,7 +8,7 @@ Not Applicable
 
 ## Usage
 
-Run the .js file in each directory.
+Run the .js or .ts file in each directory.
 
 ## License
 
