@@ -3,7 +3,7 @@
  * @param {number} k
  * @return {string}
  */
-var removeKdigits = function (num, k) {
+let removeKdigits = function (num, k) {
   if (num.length == k) return "0";
   const res = [];
   for (let i = 0; i < num.length; i++) {
